@@ -19,17 +19,18 @@
 ```git clone https://github.com/unknown-kel/u-spam```
 
 ```cd u-spam```
- 
-```python spam.py```
 
 ```bash start.sh```
+
+```python spam.py```
+
 
 
 
 ### Or, Use Single Command
 ```
 apt install git python -y && git clone https://github.com/unknown-kel/u-spam && cd u-spam &&
-python spam.py
+bash start.sh && python spam.py
 ```
 
 ## Screenshots:
